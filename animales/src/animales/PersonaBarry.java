@@ -21,7 +21,50 @@ public class PersonaBarry {
         this.saluda = saluda;
     }
 
+<<<<<<< HEAD
    
+=======
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public boolean isEstudiaAbogacia() {
+        return estudiaAbogacia;
+    }
+
+    public void setEstudiaAbogacia(boolean estudiaAbogacia) {
+        this.estudiaAbogacia = estudiaAbogacia;
+    }
+
+    public boolean isCamina() {
+        return camina;
+    }
+
+    public void setCamina(boolean camina) {
+        this.camina = camina;
+    }
+
+    public boolean isSaluda() {
+        return saluda;
+    }
+
+    public void setSaluda(boolean saluda) {
+        this.saluda = saluda;
+    }
+
+>>>>>>> 9171743e5e1c803b921db7f6f420304a64951291
     
    
     
