@@ -5,7 +5,7 @@ Que puto que sos VAle no
 
 ## Con esto envias mails con SpringBoot ALE
 
-<div align= "center">
+
 
 ```java
 // using SendGrid's Java Library
@@ -37,4 +37,3 @@ public class Example {
   }
 
 ```
-</div>
