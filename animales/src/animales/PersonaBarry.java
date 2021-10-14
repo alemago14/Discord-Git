@@ -13,13 +13,15 @@ public class PersonaBarry {
     public boolean camina;
     public boolean saluda; //agrego atributo - gero
 
-    public PersonaBarry(String nombre, int edad, boolean estudiaAbogacia, boolean camina) {
+    public PersonaBarry(String nombre, int edad, boolean estudiaAbogacia, boolean camina, boolean saluda) {
         this.nombre = nombre;
         this.edad = edad;
         this.estudiaAbogacia = estudiaAbogacia;
         this.camina = camina;
+        this.saluda = saluda;
     }
 
+   
     
    
     
