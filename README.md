@@ -1,11 +1,17 @@
 # Discord-Git
+<<<<<<< HEAD
+Barry #numb.ERONE!
+=======
 Que puto que sos VAle no
 <h1 style="color:#0489"> Gero anashe</h1>
+<<<<<<< HEAD
+>>>>>>> d208ff8efd7e13e007ac762a14a98551411f32b6
+=======
 
 
 ## Con esto envias mails con SpringBoot ALE
 
-<div align= "center">
+
 
 ```java
 // using SendGrid's Java Library
@@ -37,6 +43,10 @@ public class Example {
   }
 
 ```
+<<<<<<< HEAD
 </div>
 
 ## Felipe Herrera!
+=======
+>>>>>>> 5ec20d12cee0b431e249d66def2631926777cddb
+>>>>>>> d1d160b4faf50f23cac770ffc2c2cf77e4df9200
