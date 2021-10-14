@@ -1,4 +1,5 @@
 # Discord-Git
+Que puto que sos VAle no
 
 <h1 style="color:#0489"> Gero anashe probando alg</h1>
 
@@ -37,3 +38,10 @@ public class Example {
   }
 
 ```
+<<<<<<< HEAD
+</div>
+
+## Felipe Herrera!
+=======
+>>>>>>> 5ec20d12cee0b431e249d66def2631926777cddb
+>>>>>>> d1d160b4faf50f23cac770ffc2c2cf77e4df9200
