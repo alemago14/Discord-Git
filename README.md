@@ -1,5 +1,12 @@
 # Discord-Git
+
+la banda del lechuga
+
 <<<<<<< HEAD
+
+Holaaaaa
+=======
+valen haceme un hijo
 
 Sandra was here!
 =======
