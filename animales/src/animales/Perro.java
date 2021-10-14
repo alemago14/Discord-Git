@@ -9,7 +9,7 @@ public class Perro {
     private String nombre;
     private String raza;
     private Integer edad;
-
+    private String ladrar; //agrego atributo - gero
     public Perro() {
     }
 

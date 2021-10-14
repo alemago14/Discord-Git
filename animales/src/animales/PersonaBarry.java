@@ -11,6 +11,7 @@ public class PersonaBarry {
     public int edad;
     public boolean estudiaAbogacia;
     public boolean camina;
+    public boolean saluda; //agrego atributo - gero
 
     public PersonaBarry(String nombre, int edad, boolean estudiaAbogacia, boolean camina) {
         this.nombre = nombre;
