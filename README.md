@@ -1,5 +1,5 @@
 # Discord-Git
-<h1 style="color:#0489"> Gero anashe probando algo</h1>
+<h1 style="color:#0489"> Gero anashe probando alg</h1>
 
 
 ## Con esto envias mails con SpringBoot ALE
