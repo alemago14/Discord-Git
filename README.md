@@ -4,7 +4,8 @@
 Sandra was here!
 =======
 Que puto que sos VAle no
-<h1 style="color:#0489"> Gero anashe</h1>
+
+<h1 style="color:#0489"> Gero anashe probando alg</h1>
 
 
 ## Con esto envias mails con SpringBoot ALE
@@ -41,4 +42,14 @@ public class Example {
   }
 
 ```
+<<<<<<< HEAD
 >>>>>>> 5ec20d12cee0b431e249d66def2631926777cddb
+=======
+<<<<<<< HEAD
+</div>
+
+## Felipe Herrera!
+=======
+>>>>>>> 5ec20d12cee0b431e249d66def2631926777cddb
+>>>>>>> d1d160b4faf50f23cac770ffc2c2cf77e4df9200
+>>>>>>> 26f0fd2731aef076c806c14bd04ad2fd6c79b961
