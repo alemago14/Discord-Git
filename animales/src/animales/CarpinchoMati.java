@@ -30,46 +30,45 @@ public class CarpinchoMati
     }
 
 
-    public String get__sz_name() {
+ public String getSzName() {
         return szName;
     }
 
-    public void set__sz_name(String szName) {
+    public void setSzName(String szName) {
         this.szName = szName;
     }
 
-    public int get__int_cms_nepe() {
+    public int getiCmsNepe() {
         return iCmsNepe;
     }
 
-    public void set__int_cms_nepe(int iCmsNepe) {
+    public void setiCmsNepe(int iCmsNepe) {
         this.iCmsNepe = iCmsNepe;
     }
 
-    public String get__sz_sexo() {
+    public String getSzSexo() {
         return szSexo;
     }
 
-    public void set__sz_sexo(String szSexo) {
+    public void setSzSexo(String szSexo) {
         this.szSexo = szSexo;
     }
 
-    public int get__int_peso() {
+    public int getiPeso() {
         return iPeso;
     }
 
-    public void set__int_peso(int iPeso) {
+    public void setiPeso(int iPeso) {
         this.iPeso = iPeso;
     }
 
-    public boolean is__bool_hincha_de_boquita() {
+    public boolean isbHinchadeBoca() {
         return bHinchadeBoca;
     }
 
-    public void set__bool_hincha_de_boquita(boolean bHinchadeBoca) {
+    public void setbHinchadeBoca(boolean bHinchadeBoca) {
         this.bHinchadeBoca = bHinchadeBoca;
     }
-
   
 
     
