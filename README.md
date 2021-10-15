@@ -4,6 +4,10 @@ la banda del lechuga
 
 <<<<<<< HEAD
 
+Hola soy el matii
+=======
+haciendo el merge de mierda
+
 Holaaaaa
 =======
 valen haceme un hijo
