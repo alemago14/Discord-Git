@@ -1,21 +1,45 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package animales;
 
-/**
- *
- * @author Maugouber
- */
+import animales.service.*;
+
 public class Animales {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+
+    public static void main(String[] args){
+
+
+        /* 
+        ===============
+        [ los services :p ]
+        ===============
+        */
+
+        CarpinchitoService cs = new CarpinchitoService();
+
+
+        /* 
+        ===============
+        [ Creacion de animales ]
+        ===============
+        */
+
+
+        /* Vamos a crear el carpincho, porque si*/
+        //int cms_nepe = 200;
+        //CarpinchoMati carpincho_pijudo = new CarpinchoMati("Rodolfo",cms_nepe,300, true, "M");
+        CarpinchoMati carpincho_normal = cs.creaCarpincho();
+        System.out.println(carpincho_normal.toString()); 
+
+        
+
+
+
+    }
+    
+    
+     
+        
 
     
 }
