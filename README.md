@@ -2,8 +2,6 @@
 
 y pone algo aca que modifique el archivo
 
-la banda del lechuga
-
 <<<<<<< HEAD
 
 Hola soy el matii
