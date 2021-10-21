@@ -1,5 +1,7 @@
 # Discord-Git
 
+Hola Ale! :)
+
 la banda del lechuga
 
 <<<<<<< HEAD
