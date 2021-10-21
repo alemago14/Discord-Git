@@ -1,5 +1,7 @@
 # Discord-Git
 
+y pone algo aca que modifique el archivo
+
 la banda del lechuga
 
 <<<<<<< HEAD
